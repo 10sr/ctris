@@ -15,11 +15,11 @@
 #include <limits.h>
 #include <time.h>
 
-#define VERSION "v0.42" // version info
+#define VERSION "v0.42.1" // version info
 #define HEIGHT 24 // height of the screen
 #define WIDTH 80 // width of the screen
 #define BOARD_HEIGHT (HEIGHT - 5) // height of the board
-#define BOARD_WIDTH 15 // width of the board
+#define BOARD_WIDTH 10 // width of the board
 #define EXTRA_BONUS // if defined, you get a bonus for every brick
 #define YES 0
 #define NO 1
