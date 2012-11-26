@@ -29,7 +29,7 @@
 
 // with this variables you can change the average constancy of a game
 #define SPEED_CONST_1 500
-#define SPEED_CONST_2 15000
+#define SPEED_CONST_2 25000
 #define BONUS_CONST 100
 #define LEVEL_CONST 300
 
